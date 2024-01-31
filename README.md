@@ -1,3 +1,7 @@
+## Netflix Clone
+![net1](https://github.com/ahiresakshi/netflix-clone/assets/88669971/5d60decd-86f4-4198-8e3c-3fd1e26dfc2c)
+![net2](https://github.com/ahiresakshi/netflix-clone/assets/88669971/3327f772-2b92-4c4a-b619-bd2f067ff329)
+
 
 # Getting Started with Create React App
 
